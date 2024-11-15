@@ -1,0 +1,32 @@
+.titulo{
+    display: flex;
+    align-items: center;
+}
+.cinco{
+    font-size: 32px;
+}
+.encabezado{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid orangered;
+    padding: 0 8px;
+    align-items: center;
+}
+.post{
+    border: 1px solid blue;
+    width: 400px;
+    margin: 0 auto;
+    
+    margin: 20px;
+}
+
+img {
+    width: 100%;
+}
+.iconos {
+    display: flex;
+    justify-content: space-between;
+}
+.contenido{
+    padding:0 8px
+}
